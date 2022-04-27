@@ -86,6 +86,7 @@ button{
   margin: 30px;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
   text-align: justify;
   font-size: 18px;
